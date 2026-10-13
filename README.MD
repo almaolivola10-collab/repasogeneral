@@ -6,11 +6,11 @@ Este proyecto corresponde a la Actividad 6 del Laboratorio de Programación. Con
 
 Objetivos
 
-* Comprender el funcionamiento de la recursividad.
-* Aplicar la búsqueda secuencial en arreglos.
-* Utilizar punteros para acceder y modificar valores en memoria.
-* Practicar la compilación y ejecución de programas en C++.
-* Organizar un proyecto utilizando buenas prácticas de programación y control de versiones.
+*Comprender el funcionamiento de la recursividad.
+*Aplicar la búsqueda secuencial en arreglos.
+*Utilizar punteros para acceder y modificar valores en memoria.
+*Practicar la compilación y ejecución de programas en C++.
+*Organizar un proyecto utilizando buenas prácticas de programación y control de versiones.
 
 Retos del programa
 
@@ -28,19 +28,19 @@ Intercambiar los valores de dos variables mediante el uso de punteros y una vari
 
 Tecnologías utilizadas
 
-* Lenguaje: C++
-* Editor: Visual Studio Code
-* Compilador: g++ mediante MSYS2
-* Control de versiones: Git
-* Repositorios remotos: GitHub y GitLab
+*Lenguaje: C++
+*Editor: Visual Studio Code
+*Compilador: g++ mediante MSYS2
+*Control de versiones: Git
+*Repositorios remotos: GitHub y GitLab
 
 Requisitos
 
 Para compilar y ejecutar el proyecto se necesita:
 
-* Tener instalado Visual Studio Code.
-* Tener instalado y configurado el compilador g++.
-* Disponer de una terminal compatible con los comandos utilizados.
+*Tener instalado Visual Studio Code.
+*Tener instalado y configurado el compilador g++.
+*Disponer de una terminal compatible con los comandos utilizados.
 
 Estructura del proyecto
 
