@@ -74,9 +74,8 @@ En la carpeta docs se encuentran los manuales de usuario y de programador, junto
 
 La carpeta capturas se utiliza para guardar las evidencias de ejecución y los diagramas solicitados en la actividad.
 
-Autoría
 
-Estudiante/s: [Completar con los nombres de los integrantes]
+Estudiante: Alma Olivola
 
 Institución: EEST N.º 1 «Eduardo Ader» — Vicente López
 
